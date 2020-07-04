@@ -1,0 +1,11 @@
+{
+	"packageUrl": "https://ttqp-hongkong.oss-accelerate.aliyuncs.com/GameTT/",
+	"searchPaths": [],
+	"assets": {
+
+	},
+	"remoteVersionUrl": "https://ttqp-hongkong.oss-accelerate.aliyuncs.com/GameTT/version.manifest",
+	"module": "",
+	"version": "1.0.0",
+	"remoteManifestUrl": "https://ttqp-hongkong.oss-accelerate.aliyuncs.com/GameTT/project.manifest"
+}
